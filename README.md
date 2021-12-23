@@ -1,4 +1,6 @@
 # Credit_Risk_Analysis
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
+
 
 ## Credit_Risk_Analysis Overview
   The purpose of this analysis was to apply data preparation, statistical reasoning, and machine learning to predict credit card risk. 
